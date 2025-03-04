@@ -9,6 +9,7 @@ Robert Duncanson, American, Landscape with Rainbow, 1859
     - Harmony vs. tension: Contrast between the darkened, brooding sky (left) and the radiant, fertile valley (right) creates a dynamic balance.
     - Human-nature symbiosis: Small figures and a cabin nestle into the land, suggesting peaceful coexistence with the untamed wilderness.
  - What are the “representational” elements–trees, figures, buildings, sky, ground, etc.–as well as the “abstract” elements–color, tone, light, line, shape, texture, etc?
+ 
  Representational Elements
     - Landscape:
         - Foreground: Rolling hills, a meandering stream, lush greenery, and a lone tree leaning toward the light.
@@ -16,6 +17,14 @@ Robert Duncanson, American, Landscape with Rainbow, 1859
         - Background: Jagged mountains under a dramatic sky, with a rainbow arcing over the scene.
     - Figures: Rural laborers (likely Black or working-class settlers) tending livestock and land.
     - Architecture: A modest wooden cabin, blending into the environment.
+
+Abstract Elements
+    - Color: Warm golds and greens dominate the sunlit valley, contrasting with cool grays and blues in the stormy sky. The rainbow’s prismatic hues soften this divide.
+    - Light: Divine, almost theatrical illumination highlights the valley, symbolizing hope and renewal.
+    - Line/Shape: Diagonal lines (rainbow, leaning tree) guide the eye from darkness to light; organic shapes evoke natural harmony.
+    - Texture: Soft, blended brushwork in the sky vs. detailed foliage and craggy mountains.
+
+
 - How do you put those details together towards speculative, narrative observations, like:
 - Where is this?
 - Continent, country, state or region; how would you describe the landscape?
