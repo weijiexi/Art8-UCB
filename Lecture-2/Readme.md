@@ -3,6 +3,7 @@ Neoclassicism was an 18th- and early 19th-century cultural movement that emerged
 ## The Idea of the Classical, and its transformation in American Landscape Painting
 ![Robert Duncanson, American, Landscape with Rainbow, 1859](./lecture-2.jpg "Robert Duncanson, American, Landscape with Rainbow, 1859")
 Robert Duncanson, American, Landscape with Rainbow, 1859
+![Robert Duncanson, American, Landscape with Rainbow, 1859](./Moodna-Viaduct.jpg "Robert Duncanson, American, Landscape with Rainbow, 1859")
 #### 1. What do you see (first impressions), from the overall image to small details?
 ##### First Impressions
 - Tranquil grandeur: A serene, luminous landscape bathed in golden light, with a sweeping rainbow bridging stormy clouds and sunlit fields.
