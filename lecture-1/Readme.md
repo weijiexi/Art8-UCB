@@ -23,8 +23,7 @@ of America, it is hereby ordered as follows:
 public architecture. Ancient Greek and Roman public buildings were designed to
 be sturdy and useful, and also to beautify public spaces and inspire civic pride.
 
-##### Administration of Donald J. Trump, 2020 Executive Order 13967—Promoting Beautiful Federal Civic Architecture
-December 18, 2020 (continued)
+##### Administration of Donald J. Trump, 2020 Executive Order 13967—Promoting Beautiful Federal Civic Architecture December 18, 2020 (continued)
 - Notable Founding Fathers agreed with these assessments and attached great
 importance to Federal civic architecture. They wanted America's public buildings
 to inspire the American people and encourage civic virtue. President George
