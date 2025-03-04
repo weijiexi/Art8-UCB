@@ -15,10 +15,10 @@ the “abstract” elements–color, tone, light, line, shape, texture, etc?
 - Who are the people
 - Age; race; gender; class; occupation?
 - What do other elements tell us?
-- 1. Is there a perspective to that representation, and if so, who is looking?
-- 2. Who does it represent?
-- 3. Whose viewpoints do we not see?
-- 4. What ideas or histories does the work represent?
+    - 1. Is there a perspective to that representation, and if so, who is looking?
+    - 2. Who does it represent?
+    - 3. Whose viewpoints do we not see?
+    - 4. What ideas or histories does the work represent?
 - Does what you see tell you anything about the artist?
 
 
