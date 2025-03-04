@@ -1,12 +1,7 @@
 # Art8-UCB
 
-    Instructor: Professor Al-An deSouza
-    
-    Current solo exhibition:
-    *Al-An deSouza: Elegies of Futures Past, *Johnson Museum of Art, Ithaca,
-    NY. 9.10.22 - 12.18.22
-    https://museum.cornell.edu/exhibitions/al-desouza-elegies-futures-past
-    Recent essays:
+### Instructor: Professor Al-An deSouza
+- Recent essays:
     *Detours Through the Black Country*, in *Art History: Journal of the
     Association for Art History*: *British Art and the Global,* Vol.45, #3.
     *An Unsettling Aesthetic Lexicon*, with Kandice Chuh, *The Brooklyn Rail*,
