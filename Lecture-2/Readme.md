@@ -36,10 +36,10 @@ Likely an idealized American frontier, combining elements of the Hudson Valley (
 The figures are anonymous rural workers, possibly symbolizing Black resilience or universal agrarian labor. Their small scale emphasizes nature’s dominance.
 - Age; race; gender; class; occupation?
 #### What do other elements tell us?
-    - 1. Is there a perspective to that representation, and if so, who is looking?
-    - 2. Who does it represent?
-    - 3. Whose viewpoints do we not see?
-    - 4. What ideas or histories does the work represent?
+- Is there a perspective to that representation, and if so, who is looking?
+- Who does it represent?
+- Whose viewpoints do we not see?
+- What ideas or histories does the work represent?
 
 Perspective & Representation
 - Viewpoint: Elevated, godlike perspective invites the viewer to witness nature’s sublimity. The rainbow acts as a mediator between chaos (storm) and order (cultivated land).
