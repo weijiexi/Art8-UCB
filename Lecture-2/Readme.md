@@ -4,8 +4,12 @@ Neoclassicism was an 18th- and early 19th-century cultural movement that emerged
 ![Robert Duncanson, American, Landscape with Rainbow, 1859](./lecture-2.jpg "Robert Duncanson, American, Landscape with Rainbow, 1859")
 Robert Duncanson, American, Landscape with Rainbow, 1859
  - What do you see (first impressions), from the overall image to small details?
- - What are the “representational” elements–trees, figures, buildings, sky, ground, etc.–as well as
-the “abstract” elements–color, tone, light, line, shape, texture, etc?
+    First Impressions
+    - Tranquil grandeur: A serene, luminous landscape bathed in golden light, with a sweeping rainbow bridging stormy clouds and sunlit fields.
+    - Harmony vs. tension: Contrast between the darkened, brooding sky (left) and the radiant, fertile valley (right) creates a dynamic balance.
+    - Human-nature symbiosis: Small figures and a cabin nestle into the land, suggesting peaceful coexistence with the untamed wilderness.
+
+ - What are the “representational” elements–trees, figures, buildings, sky, ground, etc.–as well as the “abstract” elements–color, tone, light, line, shape, texture, etc?
 - How do you put those details together towards speculative, narrative observations, like:
 - Where is this?
 - Continent, country, state or region; how would you describe the landscape?
