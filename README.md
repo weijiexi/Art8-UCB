@@ -9,9 +9,9 @@
         https://brooklynrail.org/2022/07/criticspage/An-Unsettling-Aesthetic-Lexicon
     - *Speaking for Ourself*, in *Storytellers of Art Histories*, eds. Alpesh
         Kantilal Patel, Yasmeen Siddique, Intellect Press, 2022.
-        Books:
-        *Ark of Martyrs: An Autobiography of V*, 2020 (Sming Sming Books)
-        *How Art Can Be Thought: A Handbook for Change*, 2018 (Duke Uni. Press)
+- Books:
+    - *Ark of Martyrs: An Autobiography of V*, 2020 (Sming Sming Books)
+    - *How Art Can Be Thought: A Handbook for Change*, 2018 (Duke Uni. Press)
 
 
 - **PROJECT #1: “WRITE”**
