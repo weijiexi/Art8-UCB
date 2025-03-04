@@ -2,16 +2,16 @@
 
 ### Instructor: Professor Al-An deSouza
 - Recent essays:
-    *Detours Through the Black Country*, in *Art History: Journal of the
-    Association for Art History*: *British Art and the Global,* Vol.45, #3.
-    *An Unsettling Aesthetic Lexicon*, with Kandice Chuh, *The Brooklyn Rail*,
-    July-Aug 2022:
-    https://brooklynrail.org/2022/07/criticspage/An-Unsettling-Aesthetic-Lexicon
-    *Speaking for Ourself*, in *Storytellers of Art Histories*, eds. Alpesh
-    Kantilal Patel, Yasmeen Siddique, Intellect Press, 2022.
-    Books:
-    *Ark of Martyrs: An Autobiography of V*, 2020 (Sming Sming Books)
-    *How Art Can Be Thought: A Handbook for Change*, 2018 (Duke Uni. Press)
+    - *Detours Through the Black Country*, in *Art History: Journal of the
+        Association for Art History*: *British Art and the Global,* Vol.45, #3.
+        *An Unsettling Aesthetic Lexicon*, with Kandice Chuh, *The Brooklyn Rail*,
+        July-Aug 2022:
+        https://brooklynrail.org/2022/07/criticspage/An-Unsettling-Aesthetic-Lexicon
+    - *Speaking for Ourself*, in *Storytellers of Art Histories*, eds. Alpesh
+        Kantilal Patel, Yasmeen Siddique, Intellect Press, 2022.
+        Books:
+        *Ark of Martyrs: An Autobiography of V*, 2020 (Sming Sming Books)
+        *How Art Can Be Thought: A Handbook for Change*, 2018 (Duke Uni. Press)
 
 
 - **PROJECT #1: “WRITE”**
