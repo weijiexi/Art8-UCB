@@ -9,17 +9,17 @@ nation)?
 - Who do they exclude?
 - What do we want from monuments?
 
-- We have seen buildings so far based on ideas of the “classical,”
+    - We have seen buildings so far based on ideas of the “classical,”
 derived mostly from Greek, Roman (Greco-Roman), and to lesser
 extents Egyptian forms; these are further syphoned through Italian
 and French forms (neo-classical and beaux arts).
-- Buildings as civilizational models based on previous empires.
-- Buildings that “speak” to us, that provide an aspirational model
-- Administration of Donald J. Trump, 2020 Executive Order 13967—Promoting Beautiful Federal
+    - Buildings as civilizational models based on previous empires.
+    - Buildings that “speak” to us, that provide an aspirational model
+    - Administration of Donald J. Trump, 2020 Executive Order 13967—Promoting Beautiful Federal
 Civic Architecture December 18, 2020 (continued)
-- By the authority vested in me as President by the Constitution and the laws of the United States
+    - By the authority vested in me as President by the Constitution and the laws of the United States
 of America, it is hereby ordered as follows:
-- Section 1. Purpose. Societies have long recognized the importance of beautiful
+    - Section 1. Purpose. Societies have long recognized the importance of beautiful
 public architecture. Ancient Greek and Roman public buildings were designed to
 be sturdy and useful, and also to beautify public spaces and inspire civic pride.
 
