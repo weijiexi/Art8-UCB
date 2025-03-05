@@ -4,7 +4,6 @@
 - How do museums make those decisions in order to decide what to
 collect?
 
-![Portrait](./Portrait.jpg "Portrait")
-![Margaret_Fuller](./Margaret_Fuller.jpg "Margaret_Fuller")
+![Portrait](./Portrait.jpg "Portrait")![Margaret_Fuller](./Margaret_Fuller.jpg "Margaret_Fuller")
 
 Thomas Hicks, Margaret Fuller,1948
