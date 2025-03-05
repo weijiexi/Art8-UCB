@@ -3,7 +3,7 @@
 - Do we first have to agree on what is art?
 - How do museums make those decisions in order to decide what to
 collect?
-
+## Portrait painting
 ![Portrait](./Portrait.jpg "Portrait")
 ![Margaret_Fuller](./Margaret_Fuller.jpg "Margaret_Fuller")
 
