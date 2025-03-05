@@ -3,4 +3,5 @@
 - Do we first have to agree on what is art?
 - How do museums make those decisions in order to decide what to
 collect?
+
 ![Portrait](./Portrait.jpg "Portrait")
