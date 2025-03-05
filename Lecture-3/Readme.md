@@ -6,3 +6,4 @@ collect?
 
 ![Portrait](./Portrait.jpg "Portrait")
 ![Margaret_Fuller](./Margaret_Fuller.jpg "Margaret_Fuller")
+Thomas Hicks, Margaret Fuller,1948
