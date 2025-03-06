@@ -1,4 +1,4 @@
-# Lecture 4 
+# Lecture 4 American Indian Art
 - Since 1940, many Native artists have pushed, pressed, and expanded beyond narrow, market-
 driven definitions of American Indian art. Drawing from the National Museum of the American
 Indian’s rich permanent collection, Stretching the Canvas presents nearly 40 paintings that
