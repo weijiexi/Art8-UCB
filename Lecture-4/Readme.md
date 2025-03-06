@@ -9,6 +9,6 @@ we looked at bring to landscape, portraiture, and history?
 
 Kent Monkman (Cree), Resurgence of the People, 2019, Acrylic on canvas, 132” x 264”
 
-![Washington Crossing the Delaware](./Margaret_Fuller.jpg "Washington Crossing the Delawarer")
+![Washington Crossing the Delaware](./main-image.jpg "Washington Crossing the Delawarer")
 
 Emanuel Leutze, Washington Crossing the Delaware, 1851.
