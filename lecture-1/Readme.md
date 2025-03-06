@@ -1,4 +1,4 @@
-# Lecture 1- Architecture
+# Lecture 1 Architecture
 ## WHAT DO MONUMENTS ASK OF US?
 ### What effect do they have upon us?
 - upon our thoughts, ideas, and aspirations?

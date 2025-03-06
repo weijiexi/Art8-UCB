@@ -1,4 +1,4 @@
-# Lecture2 NeoClassicism
+# Lecture 2 NeoClassicism
 Neoclassicism was an 18th- and early 19th-century cultural movement that emerged as a reaction to the ornate excesses of Baroque and Rococo styles. Rooted in the Enlightenment's emphasis on reason, order, and moral virtue, it drew inspiration from the art, architecture, and ideals of ancient Greece and Rome. Here's a structured overview:
 ## The Idea of the Classical, and its transformation in American Landscape Painting
 ![Robert Duncanson, American, Landscape with Rainbow, 1859](./lecture-2.jpg "Robert Duncanson, American, Landscape with Rainbow, 1859")

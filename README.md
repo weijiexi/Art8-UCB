@@ -58,7 +58,3 @@
     Go to a place you would not usually go. Ideally, this should be a place that is not part of your routine, that feels unfamiliar to you in some way, and potentially a place where you might feel yourself as an outsider in some way. In this space, you could be an outsider physically, culturally, socially, politically … we all have different contexts in which we will feel ‘other’.
 
     Spend some time in this place. Don’t just enter and leave, but really walk around, observe, sit, listen. Avoid getting on your phone - if possible turn it off for a designated time. Use your senses: look at people; investigate the smells, sounds, textures, colors. What details do you notice about this place, as well as your own presence within it? To what extent do you feel a part of, or an outsider to this place? What does your experience say about the "location" from which you see/sense/think/feel. Take your sketchbook/ sheet of paper to make note of your observations. 
-
-
-## Useful link
-- 
