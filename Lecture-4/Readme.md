@@ -1,4 +1,8 @@
 # Lecture 4 
+- Since 1940, many Native artists have pushed, pressed, and expanded beyond narrow, market-
+driven definitions of American Indian art. Drawing from the National Museum of the American
+Indian’s rich permanent collection, Stretching the Canvas presents nearly 40 paintings that
+transcend, represent, or subvert conventional ideas of authenticity.
 #### Keeping in mind some of the conventions of landscape and portraiture that we have looked at, how would you apply the questions from this list to a work by Wendy Red Star, Kent Monkman, or James Luna?
 #### What other questions or perspectives do any of the Indigenous artists we looked at bring to landscape, portraiture, and history?
 
