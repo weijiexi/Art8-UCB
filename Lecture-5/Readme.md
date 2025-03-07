@@ -31,7 +31,7 @@ Wangechi Mutu,Riding Death in My Sleep, 2002,ink collage on paper, 60 x 44 inche
 Wangechi Mutu's Riding Death in My Sleep (2002) employs Afrofuturist themes, styles, and methods through a lens of hybridity, reclamation, and transformative futures. Here’s a breakdown of its Afrofuturist elements:
 
 #### Afrofuturist Ideas
-- Hybridity and Post-Humanism:
+- ##### Hybridity and Post-Humanism:
 Mutu’s signature hybrid figures—merging human, animal, mechanical, and organic forms—challenge fixed identities, embodying Afrofuturism’s rejection of colonial and gendered categorizations. These cyborg-like beings suggest new, liberated modes of existence beyond Western binaries.
 - Confronting Historical Trauma:
 The title’s allusion to “riding death” evokes a reckoning with legacies of violence (slavery, colonialism) while transforming death into a vehicle for agency. This aligns with Afrofuturism’s focus on reimagining the past to empower marginalized futures.
