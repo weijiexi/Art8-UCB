@@ -39,7 +39,7 @@ The title’s allusion to “riding death” evokes a reckoning with legacies of
 The dreamlike, liminal space of the artwork invokes ancestral or spiritual realms, reflecting non-Western cosmologies. Afrofuturism often bridges technology and tradition, suggesting ancestral wisdom as a tool for futuristic resilience.
 - Reclamation and Resistance:
 By repurposing colonial or consumerist materials (e.g., medical diagrams, fashion magazines), Mutu critiques objectification of Black bodies and reclaims narratives, turning fragmentation into empowerment.
-- Stylistic Approaches
+#### Stylistic Approaches
 - Collage as Fragmentation and Reassembly:
 Layered ink collage techniques fracture and recombine imagery, symbolizing the reconstruction of diasporic identity. This method disrupts linear histories, creating speculative, nonlinear futures.
 - Surreal Aesthetics:
