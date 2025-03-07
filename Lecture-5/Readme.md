@@ -1,5 +1,5 @@
 # Lecture 5 National Museum of African American History and Culture
-##### here are four pillars upon which the NMAAHC stands:
+#### There are four pillars upon which the NMAAHC stands:
 - It provides an opportunity for those who are interested in African American
 culture to explore and revel in this history through interactive exhibitions
 - It helps all Americans see how their stories, their histories, and their cultures are
