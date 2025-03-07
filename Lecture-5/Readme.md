@@ -15,3 +15,10 @@ this museum was created.
 This Museum will tell the American story through the lens of African American
 history and culture. This is America’s Story and this museum is for all
 Americans. Lonnie G. Bunch, III, Founding Director, NMAAHC
+
+[Afrofuturism](https://en.wikipedia.org/wiki/Afrofuturism) is a cultural aesthetic, and philosophy of science and history that explores the intersection of the African
+diaspora culture with science and technology. It addresses
+themes and concerns of the African diaspora through technoculture and speculative fiction,
+encompassing a range of media and artists with a shared
+interest in envisioning black futures that stem from Afrodiasporic experiences.
+
