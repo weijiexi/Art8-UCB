@@ -22,3 +22,9 @@ themes and concerns of the African diaspora through technoculture and speculativ
 encompassing a range of media and artists with a shared
 interest in envisioning black futures that stem from Afrodiasporic experiences.
 
+- How has the museum responded to the histories of slavery,
+segregation, and Civil Rights and Black Lives Matter protests?
+- What are some of the Afrofuturist ideas, styles, and methods invented and used by artists?
+![Wangechi Mutu](./Wangechi Mutu.jpg "Wangechi Mutu")Wangechi Mutu,
+Riding Death in My Sleep, 2002,ink collage on paper, 60 x 44 inches
+
