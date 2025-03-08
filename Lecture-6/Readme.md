@@ -22,8 +22,7 @@ in relation to, and extracting from its colonies.
     - invention of paint tubes (1841);
     - Scientific inventions and changing ideas;
     - The spread of secular thought;
-#### Let’s reconsider the formation of ‘European modernism’ in relation to
-and as extractive from its colonies:
+#### Let’s reconsider the formation of ‘European modernism’ in relation to and as extractive from its colonies:
 - Industrialization:
     -  Wealth developed from slavery;
     -  Wealth developed from raw materials from colonies;
