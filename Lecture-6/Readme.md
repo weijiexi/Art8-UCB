@@ -1,5 +1,5 @@
 # Lecture 6 Modernism
-## MODERNISM
+## Modernism
 - There are many modernisms, each developing in different regions, and
 with different timelines (for example Chinese modernism, Indian
 modernism, Mexican modernism, etc.).
