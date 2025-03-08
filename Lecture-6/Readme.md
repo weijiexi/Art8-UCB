@@ -36,3 +36,12 @@ in relation to, and extracting from its colonies.
     -  Wider patronage of the arts, museums and salons to display art to the public;
     -  Artists traveling to different colonized countries (Gauguin, Pechstein, Matisse, ...)
     -  Artists gaining access to artefacts from around the world (Rousseau, Picasso...)
+#### Societal changes create different social ideas, understandings, and desires:
+- The rise of the middle classes (the bourgeoisie);
+- theories of social relations through economies:
+    - Adam Smith (The Wealth of Nations, 1776, capitalism and the division of labor)
+    - Karl Marx (Das Kapital, 1867-1883, analysis of capital and development of communism and socialism)
+- theories of social relations through biology (Charles Darwin, On the Origin of
+Species,1859);
+- theories of social relations through psychology (Sigmund Freud: psychoanalysis,
+dreams, repression, the unconscious, sexuality, the Id, Ego, etc)
