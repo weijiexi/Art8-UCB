@@ -45,3 +45,15 @@ in relation to, and extracting from its colonies.
 Species,1859);
 - theories of social relations through psychology (Sigmund Freud: psychoanalysis,
 dreams, repression, the unconscious, sexuality, the Id, Ego, etc)
+- The conflict of class (away from monarchy and towards the middle and working classes)
+- The idea that Europe had run its course/the search elsewhere for new forms
+    -  Orientalism; primitivism
+- The influence of urban life and technology
+- The trajectory away from depicting history
+    - away from mythology
+    - away from naturalism and realism
+- The trajectory towards depicting the present, and its many changes
+    - towards experimentation
+    - towards the new
+    - towards flatness
+    - towards abstraction
