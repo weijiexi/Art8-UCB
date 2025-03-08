@@ -57,3 +57,17 @@ dreams, repression, the unconscious, sexuality, the Id, Ego, etc)
     - towards the new
     - towards flatness
     - towards abstraction
+- Impressionism (France) 1860s (the breakdown of the image through color); Pointillism,
+1886, develops out of Impressionism,
+- Expressionism (expressing the artist’s inner feelings), beginning in early 1900s
+    - German expressionism: Die Brucke (The Bridge), 1905-13
+    - German expressionism: Die Blaue Reiter (The Blue Rider), 1912-14
+- Fauvism (France), approx. 1905-1910, (the expansion of color)
+- Cubism (Paris) (the breakdown of form)
+- Constructivism (Russia), 1915, art In service to revolution
+- Suprematism (Russia), 1913 (“the supremacy of pure artistic feeling” Kasimir Malevich)
+- Surrealism (interiority, dreams, and the influence of Sigmund Freud’s The Interpretation of
+Dreams, 1899; and later, Carl Jung’s ideas of archetypes and the “collective unconscious”)
+- Futurism (Italy), 1909-1918
+- Found materials, collage, assemblage (Paris, Germany) and the Readymade (New York)
+- Abstract Expressionism (New York), 1940s – 1950s
